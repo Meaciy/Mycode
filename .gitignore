@@ -1,8 +1,0 @@
-.idea
-
-*/__pycache__/
-*/*/__pycache__/
-
-*/*log*
-*/*/*log*
-*/state_dict
