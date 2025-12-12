@@ -1,0 +1,19 @@
+
+
+## Requirements
+
+- torch>=1.13.1
+- scikit-learn==0.23.2
+- transformers==3.2.0
+- nltk==3.5
+- einops==0.4.1
+
+To install requirements, run `pip install -r requirements.txt`.
+
+## Training
+
+To train and evaluate the APARN model, run:
+
+`./BSAN/run.sh`
+
+
